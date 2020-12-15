@@ -1,0 +1,2 @@
+GET http://localhost:4000/api/users HTTP/1.1
+x-access-token: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVmYWFmNTNhMmEzMjFjNzFjY2RiMDEwMSIsImlhdCI6MTYwNTEwOTMyMiwiZXhwIjoxNjA1MTk1NzIyfQ.xMX6gVsrlNjrUqPEQBYnoh8cbxPLKcxeOuolAbvipuw
